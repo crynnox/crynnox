@@ -2,9 +2,6 @@
 ▸ @crynnox                                        
   ✭ pt, en and es.
 
-▸ tools                                        
-  ✭ git, adobexd, vscode
-
 ▸ operating system                                        
   ✭ windows
 
