@@ -1,8 +1,8 @@
 
 ▸ @crynnox                                        
-  ✭ pt, en and es.
+    ✭ pt, en and es.
 
 ▸ operating system                                        
-  ✭ windows
+    ✭ windows
 
 ![](https://komarev.com/ghpvc/?username=crynnox&color=000000&style=flat)
