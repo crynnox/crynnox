@@ -5,4 +5,4 @@
 - operating systems
   ✭ windows
 
-![](https://komarev.com/ghpvc/?username=crynnox&color=lightgrey&style=flat)
+![](https://komarev.com/ghpvc/?username=crynnox&color=020202&style=flat)
